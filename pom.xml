@@ -91,21 +91,21 @@
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
-		
+	
+http://52.87.247.192:8000/repository/ebaybts-snapshot/ 	
 	</dependencies>
 	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.95.137.168:8000/repository/ebay_bt/
-</url>
+	      <url>http://52.87.247.192:8000/repository/ebaybts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.95.137.168:8000/repository/ebay_bts/</url>
+	      <url>http://52.87.247.192:8000/repository/ebaybts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
