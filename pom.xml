@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://http://35.173.136.164:8081/repository/ebayproject-releases///</url>
+	      <url>http://http://3.94.190.135:8081/repository/ebayback-releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://35.173.136.164:8081/repository/ebayproject-snapshot//</url>
+	      <url>http://http://3.94.190.135:8081/repository/ebayback-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
